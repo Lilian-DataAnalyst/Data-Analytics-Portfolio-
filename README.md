@@ -7,8 +7,8 @@ Ethnocentrique Limited. Building my data analytics skills
 through real-world projects.
 
 ## Projects
-- **[Investing Early vs. Late](https://eu.wps.com/cms/docs/d/cbOakfyZ9WcdNw6T?sa=601.1074)** — Compared early vs. late investing habits using historical return data; early starter ended with ~50% more savings.
-- **[Fixed vs. Leftover Saving](https://eu.wps.com/cms/docs/d/cbOakjoG2WIYVUxJ?sa=601.1074)** — Compared two saving habits; fixed saving produced ~3x more total savings.
+- **[Investing Early vs. Late]()** — Compared early vs. late investing habits using historical return data; early starter ended with ~50% more savings.
+- **[Fixed vs. Leftover Saving](fixed_vs_leftover_saving.xlsx)** — Compared two saving habits; fixed saving produced ~3x more total savings.
 
 ## Skills
 Excel (Basic) · Statistics (Basic) · Data Visualization (Basic) · 
